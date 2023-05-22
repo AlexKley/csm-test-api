@@ -1,0 +1,23 @@
+{
+  "name": "csm-test-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKley/csm-test-api.git"
+  },
+  "keywords": [
+    "csm",
+    "api"
+  ],
+  "author": "Alex Kley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexKley/csm-test-api/issues"
+  },
+  "homepage": "https://github.com/AlexKley/csm-test-api#readme"
+}
